@@ -18,7 +18,7 @@ int main() {
 			
 			if(mt[v][u]!=INF)  mt[v][u]=mt[u][v]=0;
 		}
-		
+		// oi
 		scanf("%d", &e);
 		
 		for(int k=1;k<=n;++k){
