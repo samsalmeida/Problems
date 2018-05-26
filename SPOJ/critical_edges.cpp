@@ -6,7 +6,7 @@ using namespace std;
  
 typedef pair<int, int> pii;
 const int MAXN=8e+2;
- 
+//
 int nc;
 int n, m, c;
 int vis[MAXN], ft[MAXN], t[MAXN], sub[MAXN];
