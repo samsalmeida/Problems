@@ -1,2 +1,2 @@
-# Problemas
-Soluções de Problemas de Programação Competitiva 
+# Problems
+Solutions for Competitive Programming Problems
