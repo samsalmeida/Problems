@@ -1,3 +1,6 @@
+// Solution using Segment in tree with Lazy Propagation
+// By Samyra Vitória
+
 #include <bits/stdc++.h>
 
 using namespace std;
