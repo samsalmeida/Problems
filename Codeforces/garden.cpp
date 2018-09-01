@@ -1,3 +1,7 @@
+// Codeforces - Educational Codeforces Round 36 (Rated for Div. 2)
+// Complexity: O(n)
+// By Samyra Almeida
+
 #include <bits/stdc++.h>
 using  namespace std;
 
