@@ -1,6 +1,6 @@
 // LCA - Lowest Common Ancestor - SPOJ
 // Complexity: O(t*n*log m)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
  
