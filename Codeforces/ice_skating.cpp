@@ -1,4 +1,4 @@
-// Codeforces - Codeforces Round #134 (Div. 1)
+// Ice Skating - Codeforces Round #134 (Div. 1)
 // Complexity: O(n²)
 // By Samyra Almeida
 
