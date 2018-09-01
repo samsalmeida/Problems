@@ -1,3 +1,7 @@
+// Codeforces - Codeforces Round #134 (Div. 1)
+// Complexity: O(n²)
+// By Samyra Almeida
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -41,14 +45,7 @@ int main(){
 			dfs(k);
 		}
 	}
-	/*
-	for(int i=0; i<n; i++){
-		cout<<i<<" - ";
-		for(int j=0; j<g[i].size(); j++){
-			cout<<g[i][j]<<" \n"[j==g[i].size()-1];
-		}
-	}
-	*/
+	
 	printf("%d\n", n_c-1);
 	return 0;
 }
