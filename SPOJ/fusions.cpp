@@ -1,6 +1,6 @@
 // Fusion - SPOJ
 // Complexity: O(k*log n)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 
