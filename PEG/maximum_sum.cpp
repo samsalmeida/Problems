@@ -1,3 +1,7 @@
+// Maximum Sum - WCIPEG
+// Complexity: O(n)
+// By Samyra Almeida
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -9,7 +13,8 @@ int n, v[MAXN];
 int dp0[MAXN], dp1[MAXN];
 
 int main(){
-  scanf("%d", &n);
+	
+	scanf("%d", &n);
 
 	for(int i=0;i<n;++i){
 		scanf("%d", &v[i]);
