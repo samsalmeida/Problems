@@ -1,6 +1,6 @@
 // Hungry Canadian - 2017 USP-ICMC
 // Complexity: O(k*26*26)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 
