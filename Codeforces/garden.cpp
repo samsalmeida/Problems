@@ -1,4 +1,4 @@
-// Codeforces - Educational Codeforces Round 36 (Rated for Div. 2)
+// Garden - Educational Codeforces Round 36 (Rated for Div. 2)
 // Complexity: O(n)
 // By Samyra Almeida
 
