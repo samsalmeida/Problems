@@ -1,6 +1,6 @@
 // Ice Skating - Codeforces Round #134 (Div. 1)
 // Complexity: O(n²)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 
