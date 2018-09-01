@@ -1,4 +1,5 @@
-// Solution using Segment in tree with Lazy Propagation
+// Propagating Tree - Codeforces Round #225 (Div. 2)
+// Complexity: O(m*log n)
 // By Samyra Vitória
 
 #include <bits/stdc++.h>
