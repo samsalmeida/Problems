@@ -1,6 +1,6 @@
 // Maximum Sum - WCIPEG
 // Complexity: O(n)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 
