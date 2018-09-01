@@ -1,3 +1,7 @@
+// Codeforces - 2017 USP-ICMC
+// Complexity: O(k*26*26)
+// By Samyra Almeida
+
 #include <bits/stdc++.h>
 
 using namespace std;
