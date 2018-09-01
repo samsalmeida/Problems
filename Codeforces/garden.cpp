@@ -1,6 +1,6 @@
 // Garden - Educational Codeforces Round 36 (Rated for Div. 2)
 // Complexity: O(n)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 using  namespace std;
