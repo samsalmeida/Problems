@@ -1,4 +1,4 @@
-// LCA - Lowest Common Ancestor - SPOJ
+// LCA (Lowest Common Ancestor) - SPOJ
 // Complexity: O(t*n*log m)
 // By Samyra Vitória
 
