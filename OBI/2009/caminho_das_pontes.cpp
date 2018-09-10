@@ -1,4 +1,4 @@
-// Pizza - Programação Nível 2 - Fase 2 - OBI 2007
+// Pizza - Programação Nível 2 - Fase 1 - OBI 2009
 // Menor Caminho - Dijkstra 
 // Complexidade: O(m*log n)
 // By Samyra Vitória
