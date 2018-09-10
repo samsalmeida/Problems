@@ -1,3 +1,8 @@
+// Familías de Troia - Programação Nível 2 - Fase 2 - OBI 2013
+// Flood Fill 
+// Complexidade: O(n + m)
+// By Samyra Vitória
+
 #include <bits/stdc++.h>
  
 using namespace std;
