@@ -1,7 +1,7 @@
 // Pizza - Programação Nível 2 - Fase 2 - OBI 2007
 // Menor Caminho - Dijkstra 
 // Complexidade: O(m*log n)
-// By Samyra Almeida
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 using namespace std;
