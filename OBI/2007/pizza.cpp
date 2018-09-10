@@ -1,7 +1,7 @@
 // Pizza - Programação Nível 2 - Fase 2 - OBI 2007
-// DP - Maximum Sum
-// Complexity: O(n)
-// By Samyra Almeida
+// DP - Soma Máxima
+// Complexidade: O(n)
+// By Samyra Vitória
 
 #include <bits/stdc++.h>
 
