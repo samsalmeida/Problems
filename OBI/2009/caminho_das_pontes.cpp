@@ -1,4 +1,4 @@
-// Pizza - Programação Nível 2 - Fase 1 - OBI 2009
+// Caminho das Pontes - Programação Nível 2 - Fase 1 - OBI 2009
 // Menor Caminho - Dijkstra 
 // Complexidade: O(m*log n)
 // By Samyra Vitória
