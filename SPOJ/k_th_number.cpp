@@ -1,4 +1,4 @@
-// Persistant Segment Tree 
+// Persistent Segment Tree 
 // Problem: Find the lowest k-th number in a range
 // Build: O(n)
 // K-th: O(log n)
