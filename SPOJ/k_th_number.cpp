@@ -1,9 +1,9 @@
 // Persistant Segment Tree 
 // Problem: Find the lowest k-th number in a range
-// Complexity(build): O(N)
-// Complexity(upd): O(log N)
-// Complexity(k-th): O(log N)
-// Memory: O(N + N log N )
+// Build: O(n)
+// K-th: O(log n)
+// Update: O(log n)
+// Memory: O(n + n log n )
 // By Samyra Vitória
 
 #include <bits/stdc++.h>
