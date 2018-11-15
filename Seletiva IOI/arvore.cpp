@@ -1,3 +1,6 @@
+// Árvore - Seletiva IOI 2017
+// By Samyra Vitória
+
 #include <bits/stdc++.h>
      
 using namespace std;
